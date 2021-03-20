@@ -1,0 +1,7 @@
+com/example/workflow/adapter/BlackListAdapter.class
+com/example/workflow/model/OnboardingRequest.class
+com/example/workflow/model/OnboardingResponse.class
+com/example/workflow/adapter/BlackListLogAdapter.class
+com/example/workflow/controller/UserController.class
+com/example/workflow/SpringCamundaApplication.class
+com/example/workflow/adapter/UserDataAdapter.class

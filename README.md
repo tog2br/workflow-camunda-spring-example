@@ -7,6 +7,9 @@ Just start the SpringCamundaApplication class and access the address below:
 
 http://localhost:8080
 
+user: demo
+pass: demo
+
 To test the rest service, import the collection that is in the resources folder in the postman
 
 To create an project start with Camunda:
